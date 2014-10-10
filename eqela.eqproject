@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# multiplescences
+#
+
+projectname: multiplescences
+vendorid: com.kimsilva.mycompany
+mainmodule: com.kimsilva.mycompany.multiplescences
